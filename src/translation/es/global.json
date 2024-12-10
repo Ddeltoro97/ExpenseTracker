@@ -1,0 +1,22 @@
+{
+    "header":{
+        "message": "Rastreador de Gastos"
+    },
+    "balance":{
+        "message": "Tu balance"
+    },
+    "incomeExpenses":{
+        "income": "Ingresos",
+        "expense": "Egresos"
+    },
+    "transactionList":{
+        "message": "Historial"
+    },
+    "addTransaction":{
+        "title": "Agregar transacción nueva",
+        "text": "Texto",
+        "amount": "Cantidad",
+        "neg": "(negativo - gasto, positivo - ingreso)",
+        "button": "Añadir Transacción"
+    }
+}

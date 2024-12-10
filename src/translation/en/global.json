@@ -1,0 +1,22 @@
+{
+    "header":{
+        "message": "Expense Tracker"
+    },
+    "balance":{
+        "message": "Your Balance"
+    },
+    "incomeExpenses":{
+        "income": "Income",
+        "expense": "Expense"
+    },
+    "transactionList":{
+        "message": "History"
+    },
+    "addTransaction":{
+        "title": "Add New Transaction",
+        "text": "Text",
+        "amount": "Amount",
+        "neg": "(negative - expense, positive - income)",
+        "button": "Add Transaction"
+    }
+}
